@@ -1,5 +1,3 @@
-//#include "/share/ex_data/ex6/gradeList.h"
-//#include "/share/ex_data/ex6/virtualHeap.h"
 /**************************************
 *  Source file for the grade list
 *  code module which maintains a list
