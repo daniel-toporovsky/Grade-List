@@ -1,4 +1,3 @@
-//#include "/share/ex_data/ex6/gradeList.h"
 /**************************************
 *  Source file for the processing grades
 *  code module which reads a list of course
